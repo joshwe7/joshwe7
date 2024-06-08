@@ -1,7 +1,18 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 📚 Skills
 
+### 🌐 Web Development
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
+### 🛠️ Programming Languages
+[![Lua](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
+
+### 🧩 Game Development
+[![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+[![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 <!--
 **zurkatron/zurkatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
