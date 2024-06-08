@@ -11,7 +11,6 @@
 [![pnpm](https://skillicons.dev/icons?i=pnpm)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 ### 💻 Programming Languages
