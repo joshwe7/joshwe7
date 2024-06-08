@@ -9,10 +9,11 @@
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![pnpm](https://skillicons.dev/icons?i=pnpm)](https://skillicons.dev)
+[![npm](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![npm](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+[![ps](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 
 
 ### 💻 Programming Languages
