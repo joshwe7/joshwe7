@@ -1,4 +1,4 @@
-## Welcome👋, I'm Zurk
+## Welcome👋
 
 ## 🙋🏻‍♂️ About Me
 🌱 I’m currently diving deep into C# and Unity, enhancing my skills in game development
