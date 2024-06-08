@@ -1,5 +1,8 @@
 ## Welcome, Im Zurk👋
 
+## 🙋🏻‍♂️ About Me
+🌱 I’m currently diving deep into C# and Unity, enhancing my skills in game development
+
 ## 📚 My Skills
 
 ### ⚙️ Technical Skills
