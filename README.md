@@ -31,6 +31,8 @@
 [![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 <!--
 **zurkatron/zurkatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
