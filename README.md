@@ -12,6 +12,8 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![npm](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+
 
 ### 💻 Programming Languages
 [![Lua](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
