@@ -3,7 +3,7 @@
 ## 📚 Skills
 
 ### 🌐 Web Development
-[![](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,html,css,react,ts)](https://skillicons.dev)
 
 
 ### 🛠️ Programming Languages
