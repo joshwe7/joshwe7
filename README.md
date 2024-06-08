@@ -2,6 +2,7 @@
 
 ## 🙋🏻‍♂️ About Me
 🌱 I’m currently diving deep into C# and Unity, enhancing my skills in game development
+📫 Reach me @ https://discord.gg/devlab
 
 ## 📚 My Skills
 
@@ -17,7 +18,6 @@
 [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![ps](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
-
 
 ### 💻 Programming Languages
 [![Lua](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
