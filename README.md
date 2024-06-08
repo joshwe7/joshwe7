@@ -3,7 +3,7 @@
 ## 🙋🏻‍♂️ About Me
 🌱 I’m currently diving deep into C# and Unity, enhancing my skills in game development
 
-📫 Reach me @ https://discord.gg/devlab
+📫 Find me @ https://discord.gg/devlab
 
 ## 📚 My Skills
 
