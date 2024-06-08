@@ -1,11 +1,15 @@
 ## Welcome👋
 
+---
+
 ## 🙋🏻‍♂️ About Me
 🌱 I’m currently diving deep into C# and Unity, enhancing my skills in game development.
 
 💼 Currently working within the realm of FiveM.
 
 📫 Find me @ https://discord.gg/devlab
+
+---
 
 ## 📚 My Skills
 
