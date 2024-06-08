@@ -1,18 +1,18 @@
 ## Hi there 👋
 
-## 📚 Skills
+## 📚 My Skills
 
-### 🌐 Web Development
+
+### 💻 Programming Languages
+[![Lua](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 
-### 💻 Programming Languages
-[![Lua](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 
 ### 🎮 Game Development
 [![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
