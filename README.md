@@ -1,7 +1,7 @@
 ## Welcome👋
 
 ## 🙋🏻‍♂️ About Me
-🌱 I’m currently diving deep into C# and Unity, enhancing my skills in game development
+🌱 I’m currently diving deep into C# and Unity, enhancing my skills in game development.
 
 💼 I work in FiveM as a fluent full stack developer, specializing in UI design and development.
 
