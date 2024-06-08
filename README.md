@@ -1,6 +1,6 @@
-## Welcome👋
+## Welcome, Im Zurk👋
 
-## 📚 Skills
+## 📚 My Skills
 
 ### ⚙️ Technical Skills
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
