@@ -8,6 +8,9 @@
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![pnpm](https://skillicons.dev/icons?i=pnpm)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![MariaDB](https://skillicons.dev/icons?i=mariadb)](https://skillicons.dev)
 
 ### 💻 Programming Languages
 [![Lua](https://skillicons.dev/icons?i=lua)](https://skillicons.dev)
