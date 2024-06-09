@@ -16,9 +16,7 @@
 ### ⚙️ Technical Skills
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![pnpm](https://skillicons.dev/icons?i=pnpm)](https://skillicons.dev)
 [![npm](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
