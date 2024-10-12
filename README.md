@@ -1,7 +1,5 @@
 ## Hi! Im Olo👋
 
----
-
 ## 🙋🏻‍♂️ About Me
 🌱 I’m currently diving deep into C# and Unity, enhancing my skills in game development.
 
@@ -9,7 +7,6 @@
 
 📫 Find me @ https://discord.gg/beyondstudios
 
----
 
 ## 📚 My Skills
 
