@@ -30,8 +30,6 @@
 [![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 
----
-
 ![](https://komarev.com/ghpvc/?username=zurkatron&color=green)
 
 <!--
