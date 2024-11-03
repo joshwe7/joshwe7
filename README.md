@@ -3,8 +3,6 @@
 
 💼 Currently working within the realm of FiveM.
 
-📫 Find me @ https://discord.gg/beyondstudios
-
 
 ## 📚 My Skills
 
